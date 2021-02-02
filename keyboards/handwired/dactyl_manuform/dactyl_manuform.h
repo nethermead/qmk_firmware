@@ -10,6 +10,8 @@
     #include "5x6_5.h"
 #elif KEYBOARD_handwired_dactyl_manuform_5x7
     #include "5x7.h"
+#elif KEYBOARD_handwired_dactyl_manuform_5x8
+    #include "5x8.h"
 #elif KEYBOARD_handwired_dactyl_manuform_6x6
     #include "6x6.h"
 #elif KEYBOARD_handwired_dactyl_manuform_dmote_62key
