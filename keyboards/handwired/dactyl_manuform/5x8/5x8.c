@@ -1,6 +1,10 @@
 #include "5x8.h"
 
 
+// RJ9 phone set cable colors reversed
+// black, red, green, yellow becomes
+// yellow, green, red, black
+
 #ifdef SSD1306OLED
 void led_set_kb(uint8_t usb_led) {
     // put your keyboard LED indicator (ex: Caps Lock LED) toggling code here
